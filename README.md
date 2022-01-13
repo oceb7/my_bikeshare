@@ -11,3 +11,23 @@ Project Data Sources
 chicago.csv
 new_york_city.csv
 washington.csv
+
+Requirements
+Install the following:
+* Python 3.7 or above: programming language
+* Pandas: library
+* Numpy: library
+* Time: library
+
+Author
+Olga Cebrian Garcia
+
+
+References
+
+https://docs.python.org/3/tutorial/controlflow.html
+https://pandas.pydata.org/docs/user_guide/missing_data.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.index.html
+https://stackoverflow.com/questions/775049/how-do-i-convert-seconds-to-hours-minutes-and-seconds
+https://stackoverflow.com/questions/419163/what-does-if-name-main-do
+https://stackoverflow.com/questions/38104340/indexerror-index-out-of-bounds
