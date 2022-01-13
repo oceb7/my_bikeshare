@@ -1,3 +1,5 @@
+## This Project was created by Olga Cebrian on January 12th 2022 as part of the Programming for Data Science with Python
+
 import time
 import pandas as pd
 import numpy as np
