@@ -3,7 +3,7 @@ Project Overview
 The bikeshare project focuses on data exploration with descriptive analysis about bike share usage in three cities in the US. The exploration is done through Python code with the main use of the pandas library.
 
 Project Date
-This project and README.md file were created on January 12th 2022
+This project and README.md file were created on January 13th 2022
 
 Project Instructions
 
