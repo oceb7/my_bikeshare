@@ -1,32 +1,32 @@
-Project Overview
+###Project Overview
 
 The bikeshare project focuses on data exploration with descriptive analysis about bike share usage in three cities in the US. The exploration is done through Python code with the main use of the pandas library. For educational purposes.
 
-Project Date
+###Project Date
 This project and README.md file were created on January 12th 2022
 
-Project Instructions
+###Project Instructions
 
 You can run this program on your terminal
 You can run this program with Jupyter notebooks
 
-Project Data Sources
+###Project Data Sources
 chicago.csv
 new_york_city.csv
 washington.csv
 
-Requirements
+###Requirements
 Install the following:
 * Python 3.7 or above: programming language
 * Pandas: library
 * Numpy: library
 * Time: library
 
-Author
+###Author
 Olga Cebrian Garcia
 
 
-References
+###References
 
 https://docs.python.org/3/tutorial/controlflow.html
 https://pandas.pydata.org/docs/user_guide/missing_data.html
