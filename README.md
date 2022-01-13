@@ -1,14 +1,13 @@
-### Date created
-I created this project and the README file on January 12 of 2022
+Project Overview
 
-### My_project
-Replace the Project Title
+The bikeshare project focuses on data exploration with descriptive analysis about bike share usage in three cities in the US. The exploration is done through Python code with the main use of the pandas library.
 
-### Description
-Describe what your project is about and what it does
+Project Instructions
 
-### Files used
-Include the files used
+You can run this program on your terminal
+You can run this program with Jupyter notebooks
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Project Data Sources
+chicago.csv
+new_york_city.csv
+washington.csv
